@@ -1,0 +1,22 @@
+/*style.css*/
+
+
+.h1 {
+    font-size:50px;
+    color: black;
+}
+
+.img {
+    width: 300px;
+    height: auto;
+}
+
+.li {
+    font-size: 25px;
+   
+}
+
+*{background-color: rgb(250, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
